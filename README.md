@@ -41,7 +41,7 @@ This Weather App is a simple web application that allows users to search for wea
 - Ensure that you have a valid API key from OpenWeatherMap and replace the placeholder in the `key.js` file with your actual API key.
 
 ## Screenshots 
-![Weather App ScreenShots](WeatherG.png)
+![Weather App ScreenShots](./Screenshots/WeatherG.png)
 ![Weather App ScreenShots](WeatherD.png)
 ![Weather App ScreenShots](WeatherB.png)
 
