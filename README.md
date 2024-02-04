@@ -42,8 +42,8 @@ This Weather App is a simple web application that allows users to search for wea
 
 ## Screenshots 
 ![Weather App ScreenShots](./Screenshots/WeatherG.png)
-![Weather App ScreenShots](WeatherD.png)
-![Weather App ScreenShots](WeatherB.png)
+![Weather App ScreenShots](./Screenshots/WeatherD.png)
+![Weather App ScreenShots](./Screenshots/WeatherB.png)
 
 ## Credits
 
